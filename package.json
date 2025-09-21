@@ -1,7 +1,7 @@
 {
-  "name": "@musistudio/llms",
+  "name": "@chameleon-nexus-tech/llms",
   "version": "1.0.32",
-  "description": "A universal LLM API transformation server",
+  "description": "A universal LLM API transformation server (Chameleon Nexus Fork)",
   "main": "dist/cjs/server.cjs",
   "module": "dist/esm/server.mjs",
   "type": "module",
@@ -21,7 +21,7 @@
     "lint": "eslint src --ext .ts,.tsx"
   },
   "keywords": [],
-  "author": "",
+  "author": "chameleon-nexus",
   "license": "MIT",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.54.0",
